@@ -1,6 +1,6 @@
 ENV=production # development | production
 
-DOMAINNAME=54.197.27.238]
+DOMAINNAME=54.197.27.238
 
 MYSQL_HOST=lksdb.cjioksi20va5.us-east-1.rds.amazonaws.com
 
